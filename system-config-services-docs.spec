@@ -1,7 +1,7 @@
 Summary:	Documentation for configuring system services
 Name:		system-config-services-docs
 Version:	1.1.9
-Release:	5
+Release:	6
 URL:		https://fedorahosted.org/%{name}
 Source0:	http://fedorahosted.org/released/%{name}/%{name}-%{version}.tar.bz2
 License:	GPLv2+
