@@ -6,6 +6,7 @@ URL:		https://fedorahosted.org/%{name}
 Source0:	http://fedorahosted.org/released/%{name}/%{name}-%{version}.tar.bz2
 License:	GPLv2+
 Group:		Books/Howtos
+BuildRequires:	make
 BuildRequires: gettext
 BuildRequires:	pkgconfig(gnome-doc-utils)
 BuildRequires:	rarian
